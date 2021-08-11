@@ -9,4 +9,4 @@ Crud de usuários feito com React JS [front-end] + PHP [back-end]
   - A URL para a api ja está compilada com o build, de modo que os arquivos da pasta api está apenas para estudo.
 
 
-~ <i>Gilbert de Oliveira SAntos</i> 
+~ <i>Gilbert de Oliveira Santos</i> 
